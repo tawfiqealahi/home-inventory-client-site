@@ -12,7 +12,7 @@ const TopBanner = () => {
                     <h1 className="card-title ms-5">Find <span className="text-warning">Yours!</span> </h1>
                     <p className="card-text">This is a wider card with supporting text below as a natural <br /> <span className="ms-5">lead-in to additional content. This content is a little bit longer.</span></p>
                     <p className="card-text">The best pice to find <br />
-                     Great <h2 className="text-warning card-title ">Comfort Packages for You</h2></p>
+                     Great <span className="text-warning fw-bold fs-5 ">Comfort Packages for You</span></p>
                 </div>
             </div>
         </div>
