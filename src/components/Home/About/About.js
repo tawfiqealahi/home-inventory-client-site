@@ -10,12 +10,12 @@ const About = () => {
                     <div className="mt-5">
                         <h5> Service</h5>
                         <p>What We Do</p>
-                        <p>Maximise the lifespan and value of your car with regular car servicing. Our expert technicians are trained to service any make and model of car using the latest techniques and diagnostic equipment.</p>
+                        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ipsam maxime fugit itaque excepturi autem quibusdam earum expedita debitis eveniet. Eaque!</p>
                     </div>
                     <div className="mt-5">
                         <h5>Auto Detailing</h5>
                         <p>What We Do</p>
-                        <p>Auto detailing goes considerably beyond a typical car wash service to make a vehicle look immaculately clean, inside and out. It can also increase an automobile’s resale value.</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, aperiam officiis? Quibusdam placeat, itaque molestiae quas magni aut voluptas maiores, officiis, unde odio suscipit dignissimos?</p>
                     </div>
                 </div>
                 <div className="col-md-4">
@@ -25,12 +25,12 @@ const About = () => {
                     <div className="mt-5">
                         <h5>Warranty Information</h5>
                         <p>What We Do</p>
-                        <p>A good car warranty is essential to provide you with peace of mind. Our company gives you an aditional guarantee or service contract for all cars. A used-car warranty typically lasts for three, six or 12 months.</p>
+                        <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore, laboriosam! Lorem ipsum dolor, sit amet consectetur adipisicing elit. Quis, consequatur! </p>
                     </div>
                     <div className="mt-5">
                         <h5>Service Specials</h5>
                         <p>What We Do</p>
-                        <p>At BudgetCars, we’re dedicated to your savings, and strive to keep your car repair costs as minimal as possible. For maximum savings, our service specials change often to fit the needs of our drivers.</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum voluptates optio quasi inventore vel at mollitia assumenda, voluptas incidunt dolor molestiae delectus aspernatur aperiam adipisci?</p>
                     </div>
                 </div>
             </div>
