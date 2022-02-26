@@ -4,7 +4,6 @@ import img2 from "../../images/brand2.jpg";
 import img3 from "../../images/brand3.jpg";
 import img4 from "../../images/brand4.png";
 
-
 const Brands = () => {
   return (
     <div>
