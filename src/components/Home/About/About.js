@@ -15,7 +15,7 @@ const About = () => {
                     <div className="mt-5">
                         <h5>Auto Detailing</h5>
                         <p>What We Do</p>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, aperiam officiis? Quibusdam placeat, itaque molestiae quas magni aut voluptas maiores, officiis, unde odio suscipit dignissimos?</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dignissimos, aperiam officiis? Quibusdam placeat, itaque molestiae quas magni aut maiores, officiis, unde odio suscipit dignissimos?</p>
                     </div>
                 </div>
                 <div className="col-md-4">
