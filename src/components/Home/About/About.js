@@ -30,7 +30,7 @@ const About = () => {
                     <div className="mt-5">
                         <h5>Service Specials</h5>
                         <p>What We Do</p>
-                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum voluptates optio quasi inventore vel at mollitia assumenda, voluptas incidunt dolor molestiae delectus aspernatur aperiam adipisci?</p>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Harum voluptates optio quasi inventore vel at aperiam adipisci?</p>
                     </div>
                 </div>
             </div>
